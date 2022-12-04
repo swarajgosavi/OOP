@@ -1,3 +1,13 @@
+/*
+Assignment 11
+Name : Swaraj Sachin Gosavi
+Roll no : 21327
+Batch : F3 [SE 3]
+
+Write C++ program using STL for sorting and searching user defined records such as Item records 
+(Item code, name, cost, quantity etc) using vector container.
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

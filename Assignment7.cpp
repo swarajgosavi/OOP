@@ -1,3 +1,14 @@
+/*
+Assignment 7
+Name : Swaraj Sachin Gosavi
+Roll no : 21327
+Batch : F3 [SE 3]
+
+Write a C++ program that creates an output file, 
+writes information to it, closes the file and 
+open it again as an input file and read the information from thefile.
+*/
+
 #include<iostream>
 #include<fstream>
 #include<iomanip>

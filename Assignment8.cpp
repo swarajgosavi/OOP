@@ -1,3 +1,12 @@
+/*
+Assignment 8
+Name : Swaraj Sachin Gosavi
+Roll no : 21327
+Batch : F3 [SE 3]
+
+Implement a function template selection Sort. Write a program that inputs, sorts and outputs an integer array and a float array.
+*/
+
 #include <iostream>
 
 using namespace std;
